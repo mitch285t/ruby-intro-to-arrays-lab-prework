@@ -15,3 +15,4 @@ def third_element(taylor_swift)
 end
 def last_element(taylor_swift)
   my_last_element = taylor_swift[-1]
+end
