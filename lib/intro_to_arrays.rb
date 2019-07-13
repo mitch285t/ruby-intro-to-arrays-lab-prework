@@ -17,7 +17,6 @@ def last_element(taylor_swift)
   my_last_element = taylor_swift[-1]
 end
 south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
-def first_method_with_array_methods(south_east_asia)
+def first_element_with_array_methods(south_east_asia)
   first_country = south_east_asia.first 
 end
-def last_element_
