@@ -12,3 +12,4 @@ def first_element(taylor_swift)
 end
 def third_element(taylor_swift)
   my_third_element = taylor_swift[3]
+end
