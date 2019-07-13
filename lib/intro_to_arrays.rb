@@ -16,3 +16,4 @@ end
 def last_element(taylor_swift)
   my_last_element = taylor_swift[-1]
 end
+south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
