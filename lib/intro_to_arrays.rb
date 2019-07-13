@@ -18,5 +18,5 @@ def last_element(taylor_swift)
 end
 south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
 first_method_with_array_methods(south_east_asia)
-
+  first_country = south_east_asia.shift
 end
